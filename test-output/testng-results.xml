@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T21:08:50 IST" name="Salesforce Application Test Automation Test Suite" finished-at="2024-11-25T21:10:37 IST" duration-ms="106372">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T21:08:50 IST" name="Salesforce App Test Cases" finished-at="2024-11-25T21:10:37 IST" duration-ms="106372">
+      <class name="com.salesforce.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:09 IST" name="setUp" finished-at="2024-11-25T21:09:15 IST" duration-ms="6177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:15 IST" name="verifyHomePageTitleTest" finished-at="2024-11-25T21:09:15 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:15 IST" name="tearDown" finished-at="2024-11-25T21:09:15 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:15 IST" name="setUp" finished-at="2024-11-25T21:09:21 IST" duration-ms="6065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserNameTest()[pri:1, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:21 IST" name="verifyUserNameTest" finished-at="2024-11-25T21:09:22 IST" duration-ms="867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:22 IST" name="tearDown" finished-at="2024-11-25T21:09:23 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:23 IST" name="setUp" finished-at="2024-11-25T21:09:29 IST" duration-ms="6519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutTest()[pri:2, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:29 IST" name="logoutTest" finished-at="2024-11-25T21:09:37 IST" duration-ms="7395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:37 IST" name="tearDown" finished-at="2024-11-25T21:09:37 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:37 IST" name="setUp" finished-at="2024-11-25T21:09:44 IST" duration-ms="6343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="appLauncherSearchTest(java.lang.String)[pri:3, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:44 IST" name="appLauncherSearchTest" data-provider="getAppLauncherSearchTestData" finished-at="2024-11-25T21:09:45 IST" duration-ms="1857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Illumina_Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLauncherSearchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.HomePageTest@27f981c6]" started-at="2024-11-25T21:09:45 IST" name="tearDown" finished-at="2024-11-25T21:09:46 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.qa.testcases.HomePageTest -->
+      <class name="com.salesforce.qa.testcases.AccountsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.AccountsPageTest@2dc54ad4]" started-at="2024-11-25T21:09:46 IST" name="setUp" finished-at="2024-11-25T21:09:52 IST" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAccountCreationTest(java.lang.String)[pri:0, instance:com.salesforce.qa.testcases.AccountsPageTest@2dc54ad4]" started-at="2024-11-25T21:09:52 IST" name="verifyAccountCreationTest" data-provider="getAppLauncherSearchTestData" finished-at="2024-11-25T21:10:07 IST" duration-ms="14868" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Illumina_Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountCreationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.AccountsPageTest@2dc54ad4]" started-at="2024-11-25T21:10:07 IST" name="tearDown" finished-at="2024-11-25T21:10:07 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.qa.testcases.AccountsPageTest -->
+      <class name="com.salesforce.qa.testcases.ContactsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.ContactsPageTest@4659191b]" started-at="2024-11-25T21:10:07 IST" name="setUp" finished-at="2024-11-25T21:10:14 IST" duration-ms="6565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCreatedContactAssociatedWithAccountAndDeleteAccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.salesforce.qa.testcases.ContactsPageTest@4659191b]" started-at="2024-11-25T21:10:14 IST" name="verifyCreatedContactAssociatedWithAccountAndDeleteAccount" data-provider="getNewContactTestData" finished-at="2024-11-25T21:10:36 IST" duration-ms="22532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Illumina_Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatedContactAssociatedWithAccountAndDeleteAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.ContactsPageTest@4659191b]" started-at="2024-11-25T21:10:36 IST" name="tearDown" finished-at="2024-11-25T21:10:37 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.qa.testcases.ContactsPageTest -->
+      <class name="com.salesforce.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:50 IST" name="setUp" finished-at="2024-11-25T21:08:52 IST" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:52 IST" name="loginPageTitleTest" finished-at="2024-11-25T21:08:52 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:52 IST" name="tearDown" finished-at="2024-11-25T21:08:53 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:53 IST" name="setUp" finished-at="2024-11-25T21:08:54 IST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="salesforceLogoImageTest()[pri:1, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:54 IST" name="salesforceLogoImageTest" finished-at="2024-11-25T21:08:55 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesforceLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:55 IST" name="tearDown" finished-at="2024-11-25T21:08:55 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:55 IST" name="setUp" finished-at="2024-11-25T21:08:57 IST" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:08:57 IST" name="loginTest" finished-at="2024-11-25T21:09:08 IST" duration-ms="11681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesforce.qa.testcases.LoginPageTest@7bd4937b]" started-at="2024-11-25T21:09:08 IST" name="tearDown" finished-at="2024-11-25T21:09:09 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.salesforce.qa.testcases.LoginPageTest -->
+    </test> <!-- Salesforce App Test Cases -->
+  </suite> <!-- Salesforce Application Test Automation Test Suite -->
+</testng-results>
