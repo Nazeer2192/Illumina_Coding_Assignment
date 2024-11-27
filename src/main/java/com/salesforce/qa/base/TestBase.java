@@ -52,6 +52,7 @@ public class TestBase {
 			prefs.put("profile.managed_default_content_settings.notifications", 2); // Enforce blocking
 
 			options.setExperimentalOption("prefs", prefs);
+			options.setHeadless(false);
 			System.setProperty("webdriver.chrome.driver",
 					"C:/Users/nazeer.ahmed2/Downloads/PageObjectModel-master/PageObjectModel-master/src/main/resources/chromedriver.exe");
 			driver = new ChromeDriver(options);
